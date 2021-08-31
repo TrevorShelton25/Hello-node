@@ -10,3 +10,4 @@
 
 4.) _Navigate to a web browser and type in http://localhost:3000/ to see the beautiful product._
 
+:Thumbs_up:
